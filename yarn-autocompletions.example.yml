@@ -1,9 +1,0 @@
-dependencies:
-  - react-dom
-
-dev_dependencies:
-  - babel-loader
-
-exclude:
-  - axios
-  - gulp
